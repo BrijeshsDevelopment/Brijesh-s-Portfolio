@@ -595,22 +595,22 @@ section{
     box-shadow: var(--neon-box-shadow);
 }
 
-.skill-bar .bar .html{
+.skill-bar .bar .project{
     width: 85%;
     animation: html 2s;
 }
 
-.skill-bar .bar .css{
+.skill-bar .bar .communication-skill{
     width: 75%;
     animation: css 3s;
 }
 
-.skill-bar .bar .bootstrap{
+.skill-bar .bar .leadership{
     width: 87%;
     animation: bootstrap 4s;
 }
 
-.skill-bar .bar .javascript{
+.skill-bar .bar .problem-solving{
     width: 80%;
     animation: javascript 5s;
 }
